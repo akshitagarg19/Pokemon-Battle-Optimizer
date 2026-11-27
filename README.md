@@ -2,8 +2,6 @@
 
 **Custodia × WiTS, IIT Madras**
 
-This is a team-only submission. `team.json` holds six Pokémon that cost 40 of the 40 allowed points. Battles are played by the simulator's built-in **baseline policy**, so no `policy.py` is included. The rulebook says a team-only submission is fully valid (Section 8).
-
 ## Team
 
 | # | Pokémon | Cost | Moves | Role |
@@ -65,23 +63,8 @@ python -m engine.runner --team team.json --eval --seeds 100
 python -m ui.server 8000
 ```
 
-## Files
 
-| File | Purpose |
-|---|---|
-| `team.json` | Submitted team: 6 Pokémon, 4 moves each, cost 40 |
-| `README.md` | This document |
+## Team Members
+Akshita Garg
+Ansh Varshney
 
-No `policy.py` is submitted. The simulator's baseline policy plays all battles.
-
-## Team & contributions
-
-| Member | Contribution |
-|---|---|
-| _Name 1_ | Team search, evaluation, final selection |
-| _Name 2_ | Policy experiments and testing |
-
-## Credits
-
-- Simulator, data and baseline policy: the Custodia × WiTS *Cynthia's Gauntlet* tournament package.
-- Pokémon data is derived from the dataset bundled with the package (`cynthia_data/`).
