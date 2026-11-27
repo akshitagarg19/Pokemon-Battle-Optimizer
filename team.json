@@ -1,0 +1,56 @@
+[
+ {
+  "species": "slaking",
+  "moves": [
+   "earthquake",
+   "ice-punch",
+   "strength",
+   "thunder-punch"
+  ]
+ },
+ {
+  "species": "grovyle",
+  "moves": [
+   "leaf-blade",
+   "giga-drain",
+   "aerial-ace",
+   "brick-break"
+  ]
+ },
+ {
+  "species": "zigzagoon",
+  "moves": [
+   "ice-beam",
+   "seed-bomb",
+   "surf",
+   "thunder"
+  ]
+ },
+ {
+  "species": "weavile",
+  "moves": [
+   "ice-punch",
+   "night-slash",
+   "brick-break",
+   "aerial-ace"
+  ]
+ },
+ {
+  "species": "sentret",
+  "moves": [
+   "double-edge",
+   "ice-punch",
+   "ice-beam",
+   "flamethrower"
+  ]
+ },
+ {
+  "species": "lopunny",
+  "moves": [
+   "ice-punch",
+   "fire-punch",
+   "strength",
+   "thunder-punch"
+  ]
+ }
+]
